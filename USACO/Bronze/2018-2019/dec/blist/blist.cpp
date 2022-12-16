@@ -47,7 +47,7 @@ int main() {
     }
     
     //Output answer
-    cout << free + use << endl;
+    fout << free + use << endl;
     
     return 0;
 }
